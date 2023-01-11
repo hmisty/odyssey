@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://odyssey.blockcoach.com/blog</id>
+    <title>元码链奥德赛 Blog</title>
+    <updated>2023-01-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://odyssey.blockcoach.com/blog"/>
+    <subtitle>元码链奥德赛 Blog</subtitle>
+    <icon>https://odyssey.blockcoach.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🚀]]></title>
+        <id>launch</id>
+        <link href="https://odyssey.blockcoach.com/blog/launch"/>
+        <updated>2023-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[元码链奥德赛网站全新上线啦！]]></summary>
+        <content type="html"><![CDATA[<p>元码链奥德赛网站全新上线啦！</p>]]></content>
+        <author>
+            <name>刘教链</name>
+            <uri>https://blockcoach.com</uri>
+        </author>
+        <category label="joulechain" term="joulechain"/>
+        <category label="odyssey" term="odyssey"/>
+    </entry>
+</feed>

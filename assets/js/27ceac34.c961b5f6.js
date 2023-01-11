@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkodyssey=self.webpackChunkodyssey||[]).push([[67],{9848:s=>{s.exports=JSON.parse('{"label":"joulechain","permalink":"/blog/tags/joulechain","allTagsPath":"/blog/tags","count":1}')}}]);
